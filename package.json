@@ -1,0 +1,12 @@
+{
+  "name": "proyecto-javascript-coderhouse-1",
+  "version": "1.0.0",
+  "description": "Proyecto de javascript del curso de Coderhouse",
+  "main": "index.js",
+  "scripts": {
+    "hola": "node hola-mundo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ángela López M",
+  "license": "ISC"
+}
